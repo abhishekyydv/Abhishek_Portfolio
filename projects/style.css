@@ -17,7 +17,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #f7f7f7;
+  background: #253C55;
   font-family: "Poppins", sans-serif;
 }
 
@@ -34,10 +34,10 @@ html::-webkit-scrollbar {
   width: 0.8rem;
 }
 html::-webkit-scrollbar-track {
-  background: rgb(235, 202, 245);
+  background: #8EACCC;
 }
 html::-webkit-scrollbar-thumb {
-  background: #420177;
+  background: #545E75;
 }
 
 /* navbar starts */
@@ -78,7 +78,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #F2184B;
 }
 header .navbar ul {
   list-style: none;
@@ -98,8 +98,8 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: #011aff;
-  border-bottom: 0.2rem solid #011aff;
+  color: #46AFAC;
+  border-bottom: 0.2rem solid #50B9B6;
   padding: 0.5rem 0;
 }
 /* navbar ends */
@@ -162,7 +162,7 @@ header .navbar ul li a:hover {
 /* work section starts */
 .work {
   /* background: #010124; */
-  background: linear-gradient(to bottom, #010136, #00003a);
+  background: linear-gradient(to bottom, #253C55, #82A0BC);
   margin-top: 5rem;
 }
 .work h2 {
@@ -170,7 +170,7 @@ header .navbar ul li a:hover {
   padding: 1rem;
 }
 .work .heading span {
-  color: rgb(255, 230, 0);
+  color: #AA98A9;
 }
 .work .button-group {
   display: flex;
@@ -238,7 +238,7 @@ header .navbar ul li a:hover {
   height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
-  background: #ffd900;
+  background: #C0D6DF;
 }
 .work .box-container .box .content .tag h3 {
   font-size: 2rem;
@@ -272,7 +272,7 @@ header .navbar ul li a:hover {
   margin-right: 2rem;
 }
 .work .desc .btns .btn:hover {
-  background: #310ae0f5;
+  background: #5999B1;
 }
 
 @media screen and (max-width: 450px) {
@@ -345,7 +345,7 @@ header .navbar ul li a:hover {
   right: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
-  background: #ffae00;
+  background: #F6D6BD;
   color: rgb(13, 0, 44);
   border-radius: 5rem;
   transition: 1s linear;

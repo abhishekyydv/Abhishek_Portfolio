@@ -1,9 +1,9 @@
 [
   {
     "name": "Chatting Application",
-    "desc": "A desktop-based real-time chat app with a responsive GUI built using Java Swing and AWT. Features socket programming and OOP concepts like inheritance and encapsulation.",
+    "desc": "Real-time Java desktop chat app with responsive Swing/AWT GUI, socket programming, and OOP concepts.",
     "image": "chatApp",
-    "category": "java",
+    "category": "mern",
     "links": {
       "view": "#",
       "code": "https://github.com/yourusername/chat-app"
@@ -33,7 +33,7 @@
     "name": "Universal Buck Converter JIG",
     "desc": "A hardware-software integrated jig for testing DC-DC buck converters. Features include voltage/current monitoring and short-circuit protection.",
     "image": "buck",
-    "category": "embedded",
+    "category": "electronics",
     "links": {
       "view": "#",
       "code": "#"
@@ -41,9 +41,9 @@
   },
   {
     "name": "Electronics Calculator Suite",
-    "desc": "A web-based suite of tools for electronics engineers. Includes calculators for Flyback Converter, Buck Converter, Resistor Series/Parallel, ADC, Capacitance, and more.",
-    "image": "",
-    "category": "web",
+    "desc": "Web-based calculator suite for electronics engineers covering converters, resistors, ADC, and capacitance.",
+    "image": "calculator",
+    "category": "web android", 
     "links": {
       "view": "https://yourwebsite.com/electronics-calculator",
       "code": "https://github.com/yourusername/electronics-calculator"
@@ -51,9 +51,29 @@
   },
   {
     "name": "MPPT Solar Street Light",
-    "desc": "Developed logic and control for a solar street light system using MPPT algorithms. Focused on real-time optimization of energy conversion and battery health monitoring.",
-    "image": "solar",
-    "category": "embedded",
+    "desc": "Developed control logic for a solar street light using MPPT for real-time energy optimization and battery monitoring.",
+    "image": "mppt",
+    "category": "electronics",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Smart Door Lock",
+    "desc": "OTP-based smart door lock system integrated with a Telegram bot for real-time access control and remote authentication.",
+    "image": "lock",
+    "category": "electronics",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Personal Productivity Tracker",
+    "desc": "Built an Arduino-based sensor system with a desktop app for real-time activity monitoring and analytics.",
+    "image": "productivity",
+    "category": "web",
     "links": {
       "view": "#",
       "code": "#"
